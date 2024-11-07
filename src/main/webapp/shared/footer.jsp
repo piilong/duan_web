@@ -1,6 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <footer class="container">
-            <strong>&copy; 2024 - Vo Minh Nam -2321160074   </strong>
+            <strong>&copy; 2024 -Nguyen Phi Long -2321160012   </strong>
         </footer>
 
         <!-- Optional JavaScript -->
